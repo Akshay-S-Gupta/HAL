@@ -1,0 +1,8 @@
+Flask
+PyPDF2
+reportLab
+Pillow
+qrcode
+docx2pdf
+pdf2image
+Werkzeug
