@@ -20,7 +20,9 @@ project_root/
 ├── sign_pdf.py                 # PDF signing logic
 ├── convert_to_pdf.py           # Conversion logic for non-PDF files
 ├── templates/                  # HTML template
-│   ├── index.html              # HTML form for file upload and user input
+│   ├── index.html              # HTML file for the web app
+│   ├── styles.css              # CSS file for the web app
+│   ├── scripts.js              # JavaScript file for the web app
 ├── static/                     # HTML static resources
 │   ├── favicon.png             # Favicon for the web app
 │   ├── BG.jpg                  # Background for the web app
