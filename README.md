@@ -21,8 +21,8 @@ project_root/
 ├── convert_to_pdf.py           # Conversion logic for non-PDF files
 ├── templates/                  # HTML template
 │   ├── index.html              # HTML file for the web app
-│   ├── styles.css              # CSS file for the web app
-│   ├── scripts.js              # JavaScript file for the web app
+│   ├── style.css              # CSS file for the web app
+│   ├── script.js              # JavaScript file for the web app
 ├── static/                     # HTML static resources
 │   ├── favicon.png             # Favicon for the web app
 │   ├── BG.jpg                  # Background for the web app
